@@ -14,12 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+title:       "TECHNI-COOP"
+keywords:    "SinglePaged, Technology, Puerto Rico, UPR-RP, UPR, youth, COOP, cooperative, co-op, computer science, robotics, conferences, workshop"
+description: "TECHNI-COOP una cooperativa juvenil tecnológica basada en la UPR-RP. Somos un Taller Empresarial y de aprendizaje en servicios diversos 
+              enfocados en la tecnología donde los socios pueden poner en práctica sus conocimientos y adquirir nuevas destrezas."
+source_link: "https://techni-coop.github.io"
+favicon:     "img/techni-coop-favicons/favicon-96x96.png"
+touch_icon:  "img/techni-coop-favicons/apple-icon-180x180.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -27,11 +28,13 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
+  blue:      '#3175AB'
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  blue-grey: '#96B0E1'
+  grey:      '#A8B4CE'
 
 kramdown:
   auto_ids:  false
